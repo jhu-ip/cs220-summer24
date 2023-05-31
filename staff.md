@@ -11,11 +11,11 @@ category: "staff"
 <div class="card_container">
 
 <div class="card">
-  <img alt="Juan photo" src="{{site.baseurl}}/img/staffpix/placeholder.jpg">
+  <img alt="Juan photo" src="{{site.baseurl}}/img/staffpix/juanbarragan.jpg">
   <div class="details">
-   <span class="name_and_role">Juan Barragan</span><br>
+   <span class="name_and_role">Juan Antonio Barragan</span><br>
    Department of Computer Science<br>
-   Email: <a href="mailto:darvish@jhu.edu">jbarrag3@jh.edu</a><br>
+   Email: <a href="mailto:jbarrag3@jh.edu">jbarrag3@jh.edu</a><br>
    <!-- Web: <a class="external" target="_blank" href="https://github.com/jabarragann">https://github.com/jabarragann</a><br> -->
    Office hours: TBD
   </div>
