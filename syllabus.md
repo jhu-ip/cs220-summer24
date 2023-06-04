@@ -75,12 +75,15 @@ See the course [website staff page](staff.html).
 The following sites will be used heavily during the course:
 
 -   The course website is
-    [jhu-ip.github.io/cs220-summer22/](https://jhu-ip.github.io/cs220-sp23/).
+    [jhu-ip.github.io/cs220-summer23/](https://jhu-ip.github.io/cs220-summer23).
 
 -   Piazza
-    (<a class="external" target="_blank" href="https://piazza.com/jhu/spring2023/en601220">https://piazza.com/jhu/spring2023/en601220</a>)
+    (<a class="external" target="_blank" href="https://piazza.com/jhu/summer2023/en601220">https://piazza.com/jhu/spring2023/en601220</a>)
     will serve as our primary communication channel. You should sign up
     for Piazza immediately.
+
+-   Slack
+    (<a class="external" target="_blank" href="https://join.slack.com/t/cs220intermed-v4s2392/shared_invite/zt-1vwjuglw4-ojh7TV9u~bWANyAHxrOiGA">Link to join slack workspace</a>) will be used for questions during the synchronous sessions
 
 -   Gradescope (<a class="external" target="_blank" href="https://www.gradescope.com/">https://www.gradescope.com/</a>) will be used
     for assignment submission, grades and feedback; you will receive an
@@ -300,11 +303,11 @@ gradescope and get autograder feedback on them.
 
 -   14% - midterm coding project (in teams)
 
--   17% - midterm exam (in class, date TBD)
+-   17% - midterm exam (in class, date July 5th)
 
 -   16% - final coding project (in teams)
 
--   17% - final exam
+-   17% - final exam (in class, date July 28th)
 -->
 
 -   36% - individual coding homework (4.5 total; due dates vary, will be
@@ -312,11 +315,11 @@ gradescope and get autograder feedback on them.
 
 -   14% - midterm coding project (in teams)
 
--   17% - midterm exam (in class, date TBD)
+-   17% - midterm exam (in class, date July 5th)
 
 -   16% - final coding project (in teams)
 
--   17% - final exam
+-   17% - final exam (in class, date July 5th)
 
 All scores and grader commentary on your homework and project
 submissions, as well as exams, will be available via Gradescope. Please

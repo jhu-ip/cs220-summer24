@@ -46,4 +46,4 @@ to the course Gradescope in the first week.
 
 ## News
 
-* **Jun 5** — Welcome! [Homework 0](assign/hw0.html) is due by *TBD*.
+* **Jun 5** — Welcome! [Homework 0](assign/hw0.html) is due by June 8th.
