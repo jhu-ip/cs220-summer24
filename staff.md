@@ -74,7 +74,7 @@ See the [CA office hours](officehours.html) page for the CA office hours schedul
 </div>
 
 <div class="card">
-  <img alt="AmirD photo" src="{{site.baseurl}}/img/staffpix/placeholder.jpg">
+  <img alt="AmirD photo" src="{{site.baseurl}}/img/staffpix/adaraie.jpg">
   <div class="details">
    <span class="name_and_role">Amir Daraie</span><br>
    Email: <a href="mailto:adaraie1@jhu.edu">adaraie1@jhu.edu</a><br>
@@ -85,7 +85,7 @@ See the [CA office hours](officehours.html) page for the CA office hours schedul
   <img alt="AmirD photo" src="{{site.baseurl}}/img/staffpix/sambhav.jpg">
   <div class="details">
    <span class="name_and_role">Sambhav Chordia</span><br>
-   Email: <a href="mailto:adaraie1@jhu.edu">schordi1@jhu.edu</a><br>
+   Email: <a href="mailto:aschordi1@jhu.edu">schordi1@jhu.edu</a><br>
   </div>
 </div>
 
