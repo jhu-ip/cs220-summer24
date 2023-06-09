@@ -64,13 +64,13 @@ the materials for that week.
       <td>Lecture<br>Slides</td>
       <td><a href=' slides/summer23_slides/summer23_day01.pdf'>Day 01 Notes</a></td>
       <td><a href='slides/summer23_slides/summer23_day03-04.pdf'>Day 02 Notes</a></td>
-      <td></td>
+      <td><a href='slides/summer23_slides/summer23_day05-06.pdf'>Day 03 Notes</a></td>
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=179715ff-c905-4523-a340-b0180116a80b'>day1-lecture</a></td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=90005b45-1763-4e48-bf94-b01a01195bf3'>day2-lecture</a></td>
-      <td></td>
+      <td><a href=' https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0d16d3b3-2707-42d0-997d-b01c01179fb8  '>day3-lecture</a></td>
     </tr>
   </tbody>
 </table>
