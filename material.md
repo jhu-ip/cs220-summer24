@@ -119,13 +119,13 @@ the materials for that week.
     </tr>
     <tr>
       <td>Lecture<br>Slides</td>
-      <td><a href='slides/notes/sp23_day07_sec03.pdf'>Day 07 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day07_sec04.pdf'>Day 07 Notes (Sec 04)</a><br><a href='slides/notes/sp23_day08_sec03.pdf'>Day 08 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day08_sec04.pdf'>Day 08 Notes (Sec 04)</a></td>
-      <td><a href='slides/notes/sp23_day09_sec03.pdf'>Day 09 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day09_sec04.pdf'>Day 09 Notes (Sec 04)</a><br><a href='slides/notes/sp23_day10_sec03.pdf'>Day 10 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day10_sec04.pdf'>Day 10 Notes (Sec 04)</a></td>
-      <td><a href='slides/notes/sp23_day11_sec03.pdf'>Day 11 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day11_sec04.pdf'>Day 11 Notes (Sec 04)</a><br><a href='slides/notes/sp23_day12_sec03.pdf'>Day 12 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day12_sec04.pdf'>Day 12 Notes (Sec 04)</a></td>
+      <td><a href='slides/summer23_slides/summer23_day05-06.pdf'>Day 04 Notes</a></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
-      <td></td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=98aec2cb-74e1-4549-bd84-b01f01189c3b'>day4-lecture</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -177,8 +177,8 @@ the materials for that week.
     <tr>
       <td>Lecture<br>Slides</td>
       <td></td>
-      <td><a href='slides/notes/sp23_day13_sec03.pdf'>Day 13 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day13_sec04.pdf'>Day 13 Notes (Sec 04)</a><br><a href='slides/notes/sp23_day14_sec03.pdf'>Day 14 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day14_sec04.pdf'>Day 14 Notes (Sec 04)</a></td>
-      <td><a href='slides/notes/sp23_day15_sec03.pdf'>Day 15 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day15_sec04.pdf'>Day 15 Notes (Sec 04)</a><br><a href='slides/notes/sp23_day16_sec03.pdf'>Day 16 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day16_sec04.pdf'>Day 16 Notes (Sec 04)</a></td>
+      <td><a href='slides/notes/sp23_day14_sec03.pdf'>Day 14 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day14_sec04.pdf'>Day 14 Notes (Sec 04)</a></td>
+      <td><a href='slides/notes/sp23_day15_sec03.pdf'>Day 15 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day15_sec04.pdf'>Day 15 Notes (Sec 04)</a></td>
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
@@ -503,7 +503,7 @@ the materials for that week.
   }
 
   document.addEventListener('DOMContentLoaded', function() {
-    var active_week_id = 'week_1';
+    var active_week_id = 'week_2';
 
     var content_divs = document.getElementsByClassName("collapsible");
     for (i = 0; i < content_divs.length; i++) {
