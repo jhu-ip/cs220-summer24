@@ -69,9 +69,8 @@ Week,Day,Date,Type,Link text,URL
 2,1,12-Jun,Video,Header guards,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=76a9e1f6-07f3-483c-9341-ae230027a948
 2,1,12-Jun,Recap,Day 8,questions/day08.html
 2,1,12-Jun,Exercise,Exercise 8,exercise/ex08.html
-2,1,12-Jun,LectureSlides,Day 04 Notes,slides/summer23_slides/summer23_day05-06.pdf
+2,1,12-Jun,LectureSlides,Day 04 Notes,slides/summer23_slides/summer23_day07-08.pdf
 2,1,12-Jun,Recording,day4-lecture,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=98aec2cb-74e1-4549-bd84-b01f01189c3b
-
 
 2,2,14-Jun,Slides,"Multidimensional arrays, gdb",slides/day09_multidimensional_arrays_gdb.pdf
 2,2,14-Jun,Video,"Multidimensional arrays, gdb",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=67aec427-5035-40bb-a34f-ae230027a824
@@ -83,6 +82,8 @@ Week,Day,Date,Type,Link text,URL
 2,2,14-Jun,Recap,Day 10,questions/day10.html
 2,2,14-Jun,Exercise,Exercise 10,exercise/ex10.html
 2,2,14-Jun,Resource,Binky the Pointer (Video),https://www.youtube.com/watch?v=5VnDaHBi8dM
+2,2,14-Jun,LectureSlides,Day 05 Notes,slides/summer23_slides/summer23_day09-10.pdf
+2,2,14-Jun,Recording,day5-lecture,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bb3317fc-15da-46fa-90bc-b0210116a741
 
 2,3,16-Jun,Video,Dynamic Memory Allocation,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=88e3945a-f1f2-4442-825e-ae230027a746
 2,3,16-Jun,Video,Valgrind,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f4c78306-67c7-4184-955f-ae230027a6b2

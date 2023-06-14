@@ -119,14 +119,14 @@ the materials for that week.
     </tr>
     <tr>
       <td>Lecture<br>Slides</td>
-      <td><a href='slides/summer23_slides/summer23_day05-06.pdf'>Day 04 Notes</a></td>
-      <td></td>
+      <td><a href='slides/summer23_slides/summer23_day07-08.pdf'>Day 04 Notes</a></td>
+      <td><a href='slides/summer23_slides/summer23_day09-10.pdf'>Day 05 Notes</a></td>
       <td></td>
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=98aec2cb-74e1-4549-bd84-b01f01189c3b'>day4-lecture</a></td>
-      <td></td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bb3317fc-15da-46fa-90bc-b0210116a741'>day5-lecture</a></td>
       <td></td>
     </tr>
   </tbody>
