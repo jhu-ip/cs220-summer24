@@ -17,7 +17,7 @@ Assignment/Exam | Date | Day|
 --------------- | ---- | ---|
 [Homework 0](assign/hw0.html) | Due June 8th | Thursday 
 [Homework 1](assign/hw1.html) | Due June 15th| Thursday 
-Homework 3 | Due June 22th| Thursday 
+[Homework 1](assign/hw3.html) | | Due June 22th| Thursday 
 Midterm project | Due June 29th |Thursday
 Midterm exam | July 5th| Wednesday (inclass)  
 Homework 5 | Due July 13th| Thursday 
