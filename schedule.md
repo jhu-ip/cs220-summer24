@@ -6,7 +6,7 @@ category: schedule
 
 This page lists assignments, projects, and exams. Note that it is possible that some
 of these dates could change. Any changes will be posted here, announced in class,
-and announced on [Piazza](https://piazza.com/jhu/spring2023/en601220/home).
+and announced on [Piazza](https://piazza.com/jhu/summer2023/en601220/home).
 
 Unless mentioned otherwise, assignments and projects are due at **11pm** (Baltimore time)
 on the due date.
