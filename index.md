@@ -48,3 +48,4 @@ to the course Gradescope in the first week.
 
 * **Jun 05** — Welcome! [Homework 0](assign/hw0.html) is due by June 8th.
 * **Jun 08** — [Homework 1](assign/hw1.html) is released. This hw is due by June 15th.
+* **Jun 15** — [Homework 3](assign/hw3.html) is released. This hw is due by June 22th.
