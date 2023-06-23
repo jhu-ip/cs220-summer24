@@ -177,14 +177,14 @@ the materials for that week.
     <tr>
       <td>Lecture<br>Slides</td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td><a href='slides/summer23_slides/summer23_day13-14_session07.pdf'>Day 07 Notes</a></td>
+      <td><a href='slides/summer23_slides/summer23_day15-16_session08.pdf'>Day 08 Notes</a></td>
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d5ea5b1d-f9d7-4e2d-8ba4-b0280115cb81'>day7-lecture</a></td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=54c4b85c-9401-4af2-94f3-b02a01125744 '>day8-lecture</a></td>
     </tr>
   </tbody>
 </table>
