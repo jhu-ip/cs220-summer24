@@ -115,28 +115,21 @@ Week,Day,Date,Type,Link text,URL
 3,2,21-Jun,Slides,Bitwise operations,slides/day14_bitwise_operations.pdf
 3,2,21-Jun,Recap,Day 14,questions/day14.html
 3,2,21-Jun,Exercise,Exercise 14,exercise/ex14.html
-3,2,21-Jun,LectureSlides,"Day 14 Notes (Sec 03)",slides/notes/sp23_day14_sec03.pdf
-3,2,21-Jun,LectureSlides,"Day 14 Notes (Sec 04)",slides/notes/sp23_day14_sec04.pdf
 
 3,3,23-Jun,Video,"Number representation,<br>type conversion/casting",https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ce56b92-a382-468f-8c9e-ae230027a1af
 3,3,23-Jun,Slides,"Number representation,<br>type conversion/casting",slides/day15_number_rep_type_conversions.pdf
 3,3,23-Jun,Recap,Day 15,questions/day15.html
 3,3,23-Jun,Exercise,Exercise 15,exercise/ex15.html
-3,3,23-Jun,LectureSlides,"Day 15 Notes (Sec 03)",slides/notes/sp23_day15_sec03.pdf
-3,3,23-Jun,LectureSlides,"Day 15 Notes (Sec 04)",slides/notes/sp23_day15_sec04.pdf
-3,3,23-Jun,Video,Linked lists,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=254ea75c-12a1-456c-b91d-ae230027a0c6
-3,3,23-Jun,Slides,Linked lists,slides/day16_linked_lists.pdf
-3,3,23-Jun,Recap,Day 16,questions/day16.html
-3,3,23-Jun,Exercise,Exercise 16,exercise/ex16.html
+3,3,23-Jun,Slides,"Midterm project overview", slides/summer23_slides/summer23_midterm_project_overview.pdf
 
-4,1,26-Jun,Video,More Linked lists,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06994aeb-6743-4fcd-b69f-ae2300279d42
-4,1,26-Jun,Slides,More Linked lists,slides/day17_more_linked_lists.pdf
+4,1,26-Jun,Video,Linked lists,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=254ea75c-12a1-456c-b91d-ae230027a0c6
+4,1,26-Jun,Slides,Linked lists,slides/day16_linked_lists.pdf
 4,1,26-Jun,Recap,Day 17,questions/day17.html
 4,1,26-Jun,Exercise,Exercise 17,exercise/ex17.html
-4,1,26-Jun,LectureSlides,"Day 17 Notes (Sec 03)",slides/notes/sp23_day17_sec03.pdf
-4,1,26-Jun,LectureSlides,"Day 17 Notes (Sec 04)",slides/notes/sp23_day17_sec04.pdf
-4,1,26-Jun,Slides,Midterm project,slides/sp23_day18.pdf
-4,1,26-Jun,Exercise,Midterm Project,assign/midterm.html
+4,1,26-Jun,Video,More Linked lists,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06994aeb-6743-4fcd-b69f-ae2300279d42
+4,1,26-Jun,Slides,More Linked lists,slides/day17_more_linked_lists.pdf
+4,1,26-Jun,Recap,Day 18,questions/day18.html
+4,1,26-Jun,Exercise,Exercise 18,exercise/ex18.html
 
 4,2,28-Jun,Video,N/A,#
 4,2,28-Jun,Slides,N/A,#

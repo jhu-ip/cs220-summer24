@@ -148,25 +148,25 @@ the materials for that week.
       <td>Videos</td>
       <td></td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fa78f1f-431c-40ea-95e2-ae230027a663'>Lifetime/Scope</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81f128ab-96f2-433e-b770-ae230027a5f4'>Structs</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e02cd998-bfde-4c4a-977a-ae23002791e7'>Random number generation</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a428f88-2a13-420b-b008-ae230027a35f'>Binary file I/O</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=373770ad-6472-4b72-b789-ae230027a246'>Bitwise operations</a></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ce56b92-a382-468f-8c9e-ae230027a1af'>Number representation,<br>type conversion/casting</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=254ea75c-12a1-456c-b91d-ae230027a0c6'>Linked lists</a></td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ce56b92-a382-468f-8c9e-ae230027a1af'>Number representation,<br>type conversion/casting</a></td>
     </tr>
     <tr>
       <td>Slides</td>
       <td></td>
       <td><a href='slides/day13_lifetime_scope.pdf'>Lifetime/Scope</a><br><a href='slides/day13_struct_type.pdf'>Structs</a><br><a href='slides/day13_random_numbers.pdf'>Random number generation</a><br><a href='slides/day14_binary_file_io.pdf'>Binary file I/O</a><br><a href='slides/day14_bitwise_operations.pdf'>Bitwise operations</a></td>
-      <td><a href='slides/day15_number_rep_type_conversions.pdf'>Number representation,<br>type conversion/casting</a><br><a href='slides/day16_linked_lists.pdf'>Linked lists</a></td>
+      <td><a href='slides/day15_number_rep_type_conversions.pdf'>Number representation,<br>type conversion/casting</a><br><a href=' slides/summer23_slides/summer23_midterm_project_overview.pdf'>Midterm project overview</a></td>
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
       <td></td>
       <td><a href='questions/day13.html'>Day 13</a><br><a href='questions/day14.html'>Day 14</a></td>
-      <td><a href='questions/day15.html'>Day 15</a><br><a href='questions/day16.html'>Day 16</a></td>
+      <td><a href='questions/day15.html'>Day 15</a></td>
     </tr>
     <tr>
       <td>Exercise</td>
       <td>No class (Juneteenth)</td>
       <td><a href='exercise/ex13.html'>Exercise 13</a><br><a href='exercise/ex14.html'>Exercise 14</a></td>
-      <td><a href='exercise/ex15.html'>Exercise 15</a><br><a href='exercise/ex16.html'>Exercise 16</a></td>
+      <td><a href='exercise/ex15.html'>Exercise 15</a></td>
     </tr>
     <tr>
       <td>Additional<br>Resources</td>
@@ -177,8 +177,8 @@ the materials for that week.
     <tr>
       <td>Lecture<br>Slides</td>
       <td></td>
-      <td><a href='slides/notes/sp23_day14_sec03.pdf'>Day 14 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day14_sec04.pdf'>Day 14 Notes (Sec 04)</a></td>
-      <td><a href='slides/notes/sp23_day15_sec03.pdf'>Day 15 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day15_sec04.pdf'>Day 15 Notes (Sec 04)</a></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
@@ -203,25 +203,25 @@ the materials for that week.
   <tbody>
     <tr>
       <td>Videos</td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06994aeb-6743-4fcd-b69f-ae2300279d42'>More Linked lists</a></td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=254ea75c-12a1-456c-b91d-ae230027a0c6'>Linked lists</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06994aeb-6743-4fcd-b69f-ae2300279d42'>More Linked lists</a></td>
       <td>N/A</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>Slides</td>
-      <td><a href='slides/day17_more_linked_lists.pdf'>More Linked lists</a><br><a href='slides/sp23_day18.pdf'>Midterm project</a></td>
+      <td><a href='slides/day16_linked_lists.pdf'>Linked lists</a><br><a href='slides/day17_more_linked_lists.pdf'>More Linked lists</a></td>
       <td>N/A</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
-      <td><a href='questions/day17.html'>Day 17</a></td>
+      <td><a href='questions/day17.html'>Day 17</a><br><a href='questions/day18.html'>Day 18</a></td>
       <td>N/A</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>Exercise</td>
-      <td><a href='exercise/ex17.html'>Exercise 17</a><br><a href='assign/midterm.html'>Midterm Project</a></td>
+      <td><a href='exercise/ex17.html'>Exercise 17</a><br><a href='exercise/ex18.html'>Exercise 18</a></td>
       <td><a href='assign/midterm.html'>Midterm Project</a></td>
       <td><a href='assign/midterm.html'>Midterm Project</a></td>
     </tr>
@@ -233,7 +233,7 @@ the materials for that week.
     </tr>
     <tr>
       <td>Lecture<br>Slides</td>
-      <td><a href='slides/notes/sp23_day17_sec03.pdf'>Day 17 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day17_sec04.pdf'>Day 17 Notes (Sec 04)</a></td>
+      <td></td>
       <td></td>
       <td><a href='slides/notes/sp23_day20_sec03.pdf'>Day 20 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day20_sec04.pdf'>Day 20 Notes (Sec 04)</a></td>
     </tr>
@@ -503,7 +503,7 @@ the materials for that week.
   }
 
   document.addEventListener('DOMContentLoaded', function() {
-    var active_week_id = 'week_2';
+    var active_week_id = 'week_3';
 
     var content_divs = document.getElementsByClassName("collapsible");
     for (i = 0; i < content_divs.length; i++) {
