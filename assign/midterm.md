@@ -247,7 +247,9 @@ If you apply the grayscale transform to the `kitten.ppm` image, the result shoul
 |The grayscale kitten image|
 
 ### Binarize
-To binarize an image, we use the thresholding. You will first convert the input image to a grayscale version. Then, you will calculate a single $$binary$$ value by comparing the $$grayscale$$ value with a $$threshold$$ value. Therefore, this operation will take an additional input parameter as a $$threshold$$, which is epxpected to be an integer and in the range between $$0$$ and $$255$$ inclusively. In your program, you should check if there is exactly one parameter is provided for the binarize operation.  Otherwise, you should report an error. You do not need to check if the input $$threshold$$ is an integer or not, but you do need to check it is a valid number and is between $$0$$ and $$255$$.  If not, you should report an error.  In case the input $$threshold$$ is not an integer, you can handle it by casting it to an integer (i.e. truncate the floating point vlaue). 
+To binarize an image, we use the thresholding. You will first convert the input image to a grayscale version. Then, you will calculate a single $$binary$$ value by comparing the $$grayscale$$ value with a $$threshold$$ value. Therefore, this operation will take an additional input parameter as a $$threshold$$, which is epxpected to be an integer and in the range between $$0$$ and $$255$$ inclusively. In your program, you should check if there is exactly one parameter is provided for the binarize operation.  Otherwise, you should report an error. You also need to check if the input $$threshold$$ is an integer or not, and check if it is a valid number between $$0$$ and $$255$$.  If not, you should report an error.  
+
+<!--- In case the input $$threshold$$ is not an integer, you can handle it by casting it to an integer (i.e. truncate the floating point vlaue). -->
 
 The $$binary$$ value is set to $$0$$ if the $$grayscale$$ value is smaller than the threshold.  Otherwise, it is set to $$255$$.  For each pixel, assign the same $$binary$$ value to the three color channels of your output image. For example, if you run the below command:
 
