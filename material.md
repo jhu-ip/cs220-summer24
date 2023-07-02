@@ -235,13 +235,13 @@ the materials for that week.
       <td>Lecture<br>Slides</td>
       <td><a href='slides/summer23_slides/summer23_day17-18_session09.pdf'>Day 09 Notes</a></td>
       <td></td>
-      <td><a href='slides/notes/sp23_day20_sec03.pdf'>Day 20 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day20_sec04.pdf'>Day 20 Notes (Sec 04)</a></td>
+      <td><a href='slides/summer23_slides/summer23_day21_session11.pdf'>Day 11 Notes</a></td>
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
       <td><a href=' https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6416e0b-eb82-4a4e-aaa7-b02d011815cc'>day9-lecture</a></td>
       <td></td>
-      <td></td>
+      <td><a href=' https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f043d7bf-7372-4598-aa5e-b03101103b06 '>day11-lecture</a></td>
     </tr>
   </tbody>
 </table>
@@ -503,7 +503,7 @@ the materials for that week.
   }
 
   document.addEventListener('DOMContentLoaded', function() {
-    var active_week_id = 'week_4';
+    var active_week_id = 'week_5';
 
     var content_divs = document.getElementsByClassName("collapsible");
     for (i = 0; i < content_divs.length; i++) {
