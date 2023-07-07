@@ -13,15 +13,18 @@ on the due date.
 
 Note that there is no Homework 2, 4, or 6.
 
-Assignment/Exam | Date | Day|
---------------- | ---- | ---|
-[Homework 0](assign/hw0.html) | Due June 8th | Thursday 
-[Homework 1](assign/hw1.html) | Due June 15th| Thursday 
-[Homework 3](assign/hw3.html) | Due June 22th| Thursday 
-[Midterm project](assign/midterm.html) | Due June 30th| Friday 
-Midterm exam | July 5th| Wednesday (inclass)  
-Homework 5 | Due July 13th| Thursday 
-Homework 7 | Due July 20th| Thursday 
-Final project | Due July 28th| Friday 
-Final exam | July 28th| Friday (inclass)
+
+| Assignment/Exam                        | Date          | Day                 |
+|----------------------------------------|---------------|---------------------|
+| [Homework 0](assign/hw0.html)          | Due June 8th  | Thursday            |
+| [Homework 1](assign/hw1.html)          | Due June 15th | Thursday            |
+| [Homework 3](assign/hw3.html)          | Due June 22th | Thursday            |
+| [Midterm project](assign/midterm.html) | Due June 30th | Friday              |
+| Midterm exam                           | July 5th      | Wednesday (inclass) |
+| [Homework 5](assign/hw5.html)          | Due July 13th | Thursday            |
+| Homework 7                             | Due July 20th | Thursday            |
+| Final project                          | Due July 28th | Friday              |
+| Final exam                             | July 28th     | Friday (inclass)    |
+|----------------------------------------|---------------|---------------------|
+
 
