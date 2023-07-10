@@ -155,8 +155,7 @@ Week,Day,Date,Type,Link text,URL
 5,1,3-Jul,Slides,Introduction to C++,slides/day22_intro_cpp.pdf
 5,1,3-Jul,Slides,C++ Strings,slides/day22_cpp_strings.pdf
 5,1,3-Jul,Recap,Day 22,questions/day22.html
-5,1,3-Jul,LectureSlides,"Day 22 Notes (Sec 03)",slides/notes/sp23_day22_sec03.pdf
-5,1,3-Jul,LectureSlides,"Day 22 Notes (Sec 04)",slides/notes/sp23_day22_sec04.pdf
+5,1,3-Jul,LectureSlides,"Day 13 Notes",slides/summer23_slides/summer23_day22_session13.pdf
 
 5,2,5-Jul,Exercise,Midterm Exam,#
 
@@ -172,8 +171,7 @@ Week,Day,Date,Type,Link text,URL
 5,3,7-Jul,Slides,STL Algorithms,slides/day24_stl_algorithms.pdf
 5,3,7-Jul,Recap,Day 24,questions/day24.html
 5,3,7-Jul,Exercise,Exercise 24,exercise/ex24.html
-5,3,7-Jul,LectureSlides,"Day 24 Notes (Sec 03)",slides/notes/sp23_day24_sec03.pdf
-5,3,7-Jul,LectureSlides,"Day 24 Notes (Sec 04)",slides/notes/sp23_day24_sec04.pdf
+5,1,3-Jul,LectureSlides,"Day 15 Notes",slides/summer23_slides/summer23_day23-24_session15.pdf
 
 6,1,10-Jul,Video,C++ I/O stream and stringstream,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f35cdf8e-80d0-4d88-b9e3-ae2300279562
 6,1,10-Jul,Video,Intro to Object Oriented Programming,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=090adf84-0330-4c2f-9c73-ae230027a599
