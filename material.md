@@ -290,9 +290,9 @@ the materials for that week.
     </tr>
     <tr>
       <td>Lecture<br>Slides</td>
-      <td><a href='slides/summer23_slides/summer23_day22_session13.pdf'>Day 13 Notes</a><br><a href='slides/summer23_slides/summer23_day23-24_session15.pdf'>Day 15 Notes</a></td>
+      <td><a href='slides/summer23_slides/summer23_day22_session13.pdf'>Day 13 Notes</a></td>
       <td></td>
-      <td><a href='slides/notes/sp23_day23_sec03.pdf'>Day 23 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day23_sec04.pdf'>Day 23 Notes (Sec 04)</a></td>
+      <td><a href='slides/summer23_slides/summer23_day23-24_session15.pdf'>Day 15 Notes</a></td>
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
