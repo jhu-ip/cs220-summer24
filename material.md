@@ -296,9 +296,9 @@ the materials for that week.
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
+      <td><a href=' https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=218b76a7-7b04-4813-af3d-b034011239e6 '>day13-lecture</a></td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td><a href=' https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81e3de09-8482-476f-a134-b0380111a4a1 '>day15-lecture</a><br><a href=' https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e59bbf9a-c9c2-4191-a7fb-b03d004de648 '>day15-lecture-supplement</a></td>
     </tr>
   </tbody>
 </table>
@@ -347,13 +347,13 @@ the materials for that week.
     </tr>
     <tr>
       <td>Lecture<br>Slides</td>
-      <td><a href='slides/notes/sp23_day25_sec01.pdf'>Day 25 Notes (Sec 01)</a><br><a href='slides/notes/sp23_day25_sec03.pdf'>Day 25 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day25_sec04.pdf'>Day 25 Notes (Sec 04)</a><br><a href='slides/notes/sp23_day26_sec03.pdf'>Day 26 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day26_sec04.pdf'>Day 26 Notes (Sec 04)</a></td>
+      <td></td>
       <td><a href='slides/notes/sp23_day27_sec03.pdf'>Day 27 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day27_sec04.pdf'>Day 27 Notes (Sec 04)</a><br><a href='slides/notes/sp23_day28_sec03.pdf'>Day 28 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day28_sec04.pdf'>Day 28 Notes (Sec 04)</a></td>
       <td><a href='slides/notes/sp23_day29_sec03.pdf'>Day 29 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day29_sec04.pdf'>Day 29 Notes (Sec 04)</a><br><a href='slides/notes/sp23_day30_sec03.pdf'>Day 30 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day30_sec04.pdf'>Day 30 Notes (Sec 04)</a></td>
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
-      <td></td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=324f89c3-818b-44b8-b10b-b03b01127cf5'>day16-lecture</a></td>
       <td></td>
       <td></td>
     </tr>
