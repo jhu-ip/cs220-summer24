@@ -347,8 +347,8 @@ the materials for that week.
     </tr>
     <tr>
       <td>Lecture<br>Slides</td>
-      <td></td>
-      <td><a href='slides/notes/sp23_day27_sec03.pdf'>Day 27 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day27_sec04.pdf'>Day 27 Notes (Sec 04)</a><br><a href='slides/notes/sp23_day28_sec03.pdf'>Day 28 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day28_sec04.pdf'>Day 28 Notes (Sec 04)</a></td>
+      <td><a href='slides/summer23_slides/summer23_day25-26_session16.pdf'>Day 16 Notes</a></td>
+      <td><a href='slides/summer23_slides/summer23_day27-28_session17.pdf'>Day 17 Notes</a></td>
       <td><a href='slides/notes/sp23_day29_sec03.pdf'>Day 29 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day29_sec04.pdf'>Day 29 Notes (Sec 04)</a><br><a href='slides/notes/sp23_day30_sec03.pdf'>Day 30 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day30_sec04.pdf'>Day 30 Notes (Sec 04)</a></td>
     </tr>
     <tr>

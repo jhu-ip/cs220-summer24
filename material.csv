@@ -187,8 +187,8 @@ Week,Day,Date,Type,Link text,URL
 6,1,10-Jul,Slides,Dynamic Memory Allocation,slides/day26_dynamic_memory_allocation.pdf
 6,1,10-Jul,Recap,Day 26,questions/day26.html
 6,1,10-Jul,Exercise,Exercise 26,exercise/ex26.html
+6,1,10-Jul,LectureSlides,"Day 16 Notes",slides/summer23_slides/summer23_day25-26_session16.pdf
 6,1,10-Jul,Recording,day16-lecture,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=324f89c3-818b-44b8-b10b-b03b01127cf5
-
 
 6,2,12-Jul,Video,C++ Classes,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a1a7afe-6165-4e33-9567-ae230027a431
 6,2,12-Jul,Video,Default Constructors,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e485b33-028d-45e6-be18-ae230027a3d3
@@ -196,16 +196,13 @@ Week,Day,Date,Type,Link text,URL
 6,2,12-Jul,Slides,Default Constructors,slides/day27_default_constructor.pdf
 6,2,12-Jul,Recap,Day 27,questions/day27.html
 6,2,12-Jul,Exercise,Exercise 27,exercise/ex27.html
-6,2,12-Jul,LectureSlides,"Day 27 Notes (Sec 03)",slides/notes/sp23_day27_sec03.pdf
-6,2,12-Jul,LectureSlides,"Day 27 Notes (Sec 04)",slides/notes/sp23_day27_sec04.pdf
 6,2,12-Jul,Video,Constructors and default arguments,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=62080530-d06e-4a0e-be06-ae230027a050
 6,2,12-Jul,Video,Destructors,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ea9792a-afab-4319-85f1-ae2300279fe3
 6,2,12-Jul,Slides,Constructors and default arguments,slides/day28_constructors.pdf
 6,2,12-Jul,Slides,Destructors,slides/day28_destructors.pdf
 6,2,12-Jul,Recap,Day 28,questions/day28.html
 6,2,12-Jul,Exercise,Exercise 28,exercise/ex28.html
-6,2,12-Jul,LectureSlides,"Day 28 Notes (Sec 03)",slides/notes/sp23_day28_sec03.pdf
-6,2,12-Jul,LectureSlides,"Day 28 Notes (Sec 04)",slides/notes/sp23_day28_sec04.pdf
+6,2,12-Jul,LectureSlides,"Day 17 Notes",slides/summer23_slides/summer23_day27-28_session17.pdf
 
 6,3,14-Jul,Video,Function overloading,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2c8031d1-8509-4b22-881b-ae2300279f65
 6,3,14-Jul,Video,Operator overloading,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ee4c0ea7-24f8-426a-9291-ae2300279f0e
