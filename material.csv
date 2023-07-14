@@ -211,16 +211,15 @@ Week,Day,Date,Type,Link text,URL
 6,3,14-Jul,Slides,Operator overloading,slides/day29_operator_overloading.pdf
 6,3,14-Jul,Recap,Day 29,questions/day29.html
 6,3,14-Jul,Exercise,Exercise 29,exercise/ex29.html
-6,3,14-Jul,LectureSlides,"Day 29 Notes (Sec 03)",slides/notes/sp23_day29_sec03.pdf
-6,3,14-Jul,LectureSlides,"Day 29 Notes (Sec 04)",slides/notes/sp23_day29_sec04.pdf
 6,3,14-Jul,Video,Initialization and assignment,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f9091b95-ab29-46fe-82b8-ae2300279e93
 6,3,14-Jul,Video,Rule of 3,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=181313b7-6b07-400c-addf-ae2300279df3
 6,3,14-Jul,Slides,Initialization and assignment,slides/day30_initialization_assignments.pdf
 6,3,14-Jul,Slides,Rule of 3,slides/day30_rule_of_3.pdf
 6,3,14-Jul,Recap,Day 30,questions/day30.html
 6,3,14-Jul,Exercise,Exercise 30,exercise/ex30.html
-6,3,14-Jul,LectureSlides,"Day 30 Notes (Sec 03)",slides/notes/sp23_day30_sec03.pdf
-6,3,14-Jul,LectureSlides,"Day 30 Notes (Sec 04)",slides/notes/sp23_day30_sec04.pdf
+6,3,14-Jul,LectureSlides,"Day 18 Notes",slides/summer23_slides/summer23_day29-30_session18.pdf
+6,3,14-Jul,Recording,day18-lecture,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4626a796-af0c-4e1a-81a6-b03f011412fc
+
 
 7,1,17-Jul,Video,Template functions,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fed0c83c-bcd8-4341-8b0e-ae2300279cf6
 7,1,17-Jul,Video,Template classes,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=06bf6f38-8f76-4b19-80f4-ae2300279c79

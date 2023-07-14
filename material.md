@@ -349,13 +349,13 @@ the materials for that week.
       <td>Lecture<br>Slides</td>
       <td><a href='slides/summer23_slides/summer23_day25-26_session16.pdf'>Day 16 Notes</a></td>
       <td><a href='slides/summer23_slides/summer23_day27-28_session17.pdf'>Day 17 Notes</a></td>
-      <td><a href='slides/notes/sp23_day29_sec03.pdf'>Day 29 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day29_sec04.pdf'>Day 29 Notes (Sec 04)</a><br><a href='slides/notes/sp23_day30_sec03.pdf'>Day 30 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day30_sec04.pdf'>Day 30 Notes (Sec 04)</a></td>
+      <td><a href='slides/summer23_slides/summer23_day29-30_session18.pdf'>Day 18 Notes</a></td>
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=324f89c3-818b-44b8-b10b-b03b01127cf5'>day16-lecture</a></td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a45f5ea-6a8b-47e1-a83d-b03d011918c8'>day17-lecture</a></td>
-      <td></td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4626a796-af0c-4e1a-81a6-b03f011412fc'>day18-lecture</a></td>
     </tr>
   </tbody>
 </table>
