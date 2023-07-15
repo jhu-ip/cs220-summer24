@@ -95,6 +95,7 @@ of words **cap**, **cat**, **cater**, **send**, and **set**.
 
 Tries are a useful way to represent a set of words for two reasons:
 
+
 * all sequences with a common prefix (**cat**, **cat**er, **cat**astrophe,
   **cat**alog, etc.) share the nodes for that prefix; this makes
   the trie space-efficient for storing sets of sequences with common
