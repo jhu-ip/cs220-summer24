@@ -346,7 +346,7 @@ available in the public repo: `cs220-summer22-public/homework/hw7/`.
 You will need to create a `Makefile` as follows:
 
 * All C++ source files must be compiled with the
-  `-Wall -Wextra -std=c++-11 -pedantic` compiler options
+  `-Wall -Wextra -std=c++11 -pedantic` compiler options
   (and your code should not produce any warnings or errors when
   compiled with these options)
 * We highly recommend using the `-g` compiler option to enable debugging
