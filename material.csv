@@ -227,16 +227,14 @@ Week,Day,Date,Type,Link text,URL
 7,1,17-Jul,Slides,Template classes,slides/day31_template_classes.pdf
 7,1,17-Jul,Recap,Day 31,questions/day31.html
 7,1,17-Jul,Exercise,Exercise 31,exercise/ex31.html
-7,1,17-Jul,LectureSlides,"Day 31 Notes (Sec 03)",slides/notes/sp23_day31_sec03.pdf
-7,1,17-Jul,LectureSlides,"Day 31 Notes (Sec 04)",slides/notes/sp23_day31_sec04.pdf
 7,1,17-Jul,Video,Inheritance,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7cdea279-e109-4ba8-b99d-ae2300279bea
 7,1,17-Jul,Video,Polymorphism,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=873d6ec0-a562-47f2-b098-ae2300279b28
 7,1,17-Jul,Slides,Inheritance,slides/day32_inheritance.pdf
 7,1,17-Jul,Slides,Polymorphism,slides/day32_polymorphism.pdf
 7,1,17-Jul,Recap,Day 32,questions/day32.html
 7,1,17-Jul,Exercise,Exercise 32,exercise/ex32.html
-7,1,17-Jul,LectureSlides,"Day 32 Notes (Sec 03)",slides/notes/sp23_day32_sec03.pdf
-7,1,17-Jul,LectureSlides,"Day 32 Notes (Sec 04)",slides/notes/sp23_day32_sec04.pdf
+7,1,17-Jul,LectureSlides,"Day 19 Notes",slides/summer23_slides/summer23_day31-32_session19.pdf
+7,1,17-Jul,Recording,day19-lecture, https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d7b6df1e-1cc6-4056-9d44-b04201133853
 
 7,2,19-Jul,Video,Dynamic dispatch,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=162dba01-3c6a-4358-8179-ae23002799fe
 7,2,19-Jul,Video,Function hiding and abstract classes,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e849f80-9dec-47c1-aaac-ae2300279986
@@ -250,8 +248,8 @@ Week,Day,Date,Type,Link text,URL
 7,2,19-Jul,Slides,OO Design & UML Diagrams,slides/day34_oo_design_uml.pdf
 7,2,19-Jul,Recap,Day 34,questions/day34.html
 7,2,19-Jul,Exercise,Work on final project,#
-7,2,19-Jul,LectureSlides,"Day 34 Notes (Sec 03)",slides/notes/sp23_day34_sec03.pdf
-7,2,19-Jul,LectureSlides,"Day 34 Notes (Sec 04)",slides/notes/sp23_day34_sec04.pdf
+7,2,19-Jul,LectureSlides,"Day 20 Notes",slides/summer23_slides/summer23_day33-34_session20.pdf
+7,2,19-Jul,Recording,day20-lecture,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a5355c3d-336b-40df-9b9b-b0440112201f 
 
 7,3,21-Jul,Video,Enumerated Types,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=00c8e477-aa8e-4357-bd0e-ae230027992c
 7,3,21-Jul,Video,Exceptions,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7e2654d0-197a-49fb-8d90-ae23002798b8
@@ -261,17 +259,13 @@ Week,Day,Date,Type,Link text,URL
 7,3,21-Jul,Slides,Customized Exceptions,slides/day35_customized_exceptions.pdf
 7,3,21-Jul,Recap,Day 35,questions/day35.html
 7,3,21-Jul,Exercise,Exercise 35,exercise/ex35.html
-7,3,21-Jul,LectureSlides,"Day 35 Notes (Sec 03)",slides/notes/sp23_day35_sec03.pdf
-7,3,21-Jul,LectureSlides,"Day 35 Notes (Sec 04)",slides/notes/sp23_day35_sec04.pdf
 7,3,21-Jul,Exercise,Work on final project,#
-7,3,21-Jul,LectureSlides,"Day 36 Notes (Sec 03)",slides/notes/sp23_day36_sec03.pdf
-7,3,21-Jul,LectureSlides,"Day 36 Notes (Sec 04)",slides/notes/sp23_day36_sec04.pdf
 7,3,21-Jul,Video,Iterators,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=737a8372-4317-47c5-8492-ae23002795c1&query=iterator
 7,3,21-Jul,Slides,Iterators,slides/day36_iterators.pdf
 7,3,21-Jul,Recap,Day 37,questions/day37.html
 7,3,21-Jul,Exercise,Exercise 37,exercise/ex37.html
-7,3,21-Jul,LectureSlides,"Day 37 Notes (Sec 03)",slides/notes/sp23_day37_sec03.pdf
-7,3,21-Jul,LectureSlides,"Day 37 Notes (Sec 04)",slides/notes/sp23_day37_sec04.pdf
+7,3,21-Jul,LectureSlides,"Day 21 Notes",slides/summer23_slides/summer23_day35-37_session21.pdf
+7,3,21-Jul,Recording,day21-lecture,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eee7313d-8d4c-4218-9fff-b046010fb6d7
 
 8,1,24-Jul,Video,Lambdas,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5eb3773f-b093-4630-8e18-ae810038ea47
 8,1,24-Jul,Slides,Lambdas,slides/day37_lambdas.pdf

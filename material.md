@@ -404,15 +404,15 @@ the materials for that week.
     </tr>
     <tr>
       <td>Lecture<br>Slides</td>
-      <td><a href='slides/notes/sp23_day31_sec03.pdf'>Day 31 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day31_sec04.pdf'>Day 31 Notes (Sec 04)</a><br><a href='slides/notes/sp23_day32_sec03.pdf'>Day 32 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day32_sec04.pdf'>Day 32 Notes (Sec 04)</a></td>
-      <td><a href='slides/notes/sp23_day34_sec03.pdf'>Day 34 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day34_sec04.pdf'>Day 34 Notes (Sec 04)</a></td>
-      <td><a href='slides/notes/sp23_day35_sec03.pdf'>Day 35 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day35_sec04.pdf'>Day 35 Notes (Sec 04)</a><br><a href='slides/notes/sp23_day36_sec03.pdf'>Day 36 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day36_sec04.pdf'>Day 36 Notes (Sec 04)</a><br><a href='slides/notes/sp23_day37_sec03.pdf'>Day 37 Notes (Sec 03)</a><br><a href='slides/notes/sp23_day37_sec04.pdf'>Day 37 Notes (Sec 04)</a></td>
+      <td><a href='slides/summer23_slides/summer23_day31-32_session19.pdf'>Day 19 Notes</a></td>
+      <td><a href='slides/summer23_slides/summer23_day33-34_session20.pdf'>Day 20 Notes</a></td>
+      <td><a href='slides/summer23_slides/summer23_day35-37_session21.pdf'>Day 21 Notes</a></td>
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><a href=' https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d7b6df1e-1cc6-4056-9d44-b04201133853'>day19-lecture</a></td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a5355c3d-336b-40df-9b9b-b0440112201f '>day20-lecture</a></td>
+      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eee7313d-8d4c-4218-9fff-b046010fb6d7'>day21-lecture</a></td>
     </tr>
   </tbody>
 </table>
@@ -503,7 +503,7 @@ the materials for that week.
   }
 
   document.addEventListener('DOMContentLoaded', function() {
-    var active_week_id = 'week_6';
+    var active_week_id = 'week_7';
 
     var content_divs = document.getElementsByClassName("collapsible");
     for (i = 0; i < content_divs.length; i++) {
