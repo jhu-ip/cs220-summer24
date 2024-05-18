@@ -19,10 +19,15 @@ All of the webpages are written in Markdown.
 
 The best way to install Jekyll is to first install [rbenv](https://github.com/rbenv/rbenv).
 I (DH) generally use the [Basic GitHub Checkout](https://github.com/rbenv/rbenv#basic-github-checkout)
-approach to installing rbenv.
+approach to installing rbenv. Don't forget to init rbenv with
+
+```bash
+rbenv init
+```
+
 
 Once rbenv is installed, install [ruby-build](https://github.com/rbenv/ruby-build#readme),
-which will allow you to compile a Ruby runtime from source.
+which will allow you to compile a Ruby runtime from source. To install ruby-build in Ubuntu 20.04 I (JAB) used the option `Clone as rbenv plugin using git` explained inthe `ruby-build` README.
 
 Once ruby-build is installed, install Ruby 2.7.0 using the commands
 
