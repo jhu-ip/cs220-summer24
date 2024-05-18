@@ -8,6 +8,8 @@ The actual website (generated from the contents of this repository) is
 
 ## Editing and updating the course website
 
+**Instructions tested on ubuntu 20.04**
+
 This information is for CS220 staff who will be editing and updating the website.
 
 The website uses [Jekyll](https://jekyllrb.com/), which in turn is the
@@ -29,17 +31,22 @@ rbenv init
 Once rbenv is installed, install [ruby-build](https://github.com/rbenv/ruby-build#readme),
 which will allow you to compile a Ruby runtime from source. To install ruby-build in Ubuntu 20.04 I (JAB) used the option `Clone as rbenv plugin using git` explained inthe `ruby-build` README.
 
-Once ruby-build is installed, install Ruby 2.7.0 using the commands
+Once ruby-build is installed, install Ruby 3.2.0 using the commands. Ruby version 2.7.0 did not work to install Jekyll.
 
 ```
-rbenv install 2.7.0
-rbenv global 2.7.0
+rbenv install 3.2.0
+rbenv global 3.2.0
 ```
 
 At this point the command `ruby --version` should produce output similar to
 
 ```
-ruby 2.7.0p0 (2019-12-25 revision 647ee6f091) [x86_64-linux]
+ruby 3.2.0 (2022-12-25 revision a528908271) [x86_64-linux]
+```
+
+Now check if rbenv was correctly initilized. You can check this with the command `which gem` which should point to your local `.rbenv`
+```
+<HOME>/.rbenv/shims/gem
 ```
 
 At this point you can install Jekyll using the command

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Intermediate Programming, Summer 2023"
+title: "Intermediate Programming, Summer 2024"
 category: "home"
 ---
 
