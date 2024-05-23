@@ -18,15 +18,15 @@ Then add, commit, and push both material.csv and material.md.
 You can click on the header for a specific week to expand or collapse
 the materials for that week.
 
-<button type="button" id="week_1_toggle" class="week_control_button">Week 1 (5-Jun to 9-Jun)</button>
+<button type="button" id="week_1_toggle" class="week_control_button">Week 1 (3-Jun to 7-Jun)</button>
 <div id="week_1" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 1 (5-Jun)</th>
-      <th>Day 2 (7-Jun)</th>
-      <th>Day 3 (9-Jun)</th>
+      <th>Day 1 (3-Jun)</th>
+      <th>Day 2 (5-Jun)</th>
+      <th>Day 3 (7-Jun)</th>
     </tr>
   </thead>
   <tbody>
@@ -62,28 +62,28 @@ the materials for that week.
     </tr>
     <tr>
       <td>Lecture<br>Slides</td>
-      <td><a href=' slides/summer23_slides/summer23_day01.pdf'>Day 01 Notes</a></td>
-      <td><a href='slides/summer23_slides/summer23_day03-04.pdf'>Day 02 Notes</a></td>
-      <td><a href='slides/summer23_slides/summer23_day05-06.pdf'>Day 03 Notes</a></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=179715ff-c905-4523-a340-b0180116a80b'>day1-lecture</a></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=90005b45-1763-4e48-bf94-b01a01195bf3'>day2-lecture</a></td>
-      <td><a href=' https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0d16d3b3-2707-42d0-997d-b01c01179fb8  '>day3-lecture</a></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
 </div>
-<button type="button" id="week_2_toggle" class="week_control_button">Week 2 (12-Jun to 16-Jun)</button>
+<button type="button" id="week_2_toggle" class="week_control_button">Week 2 (10-Jun to 14-Jun)</button>
 <div id="week_2" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 4 (12-Jun)</th>
-      <th>Day 5 (14-Jun)</th>
-      <th>Day 6 (16-Jun)</th>
+      <th>Day 4 (10-Jun)</th>
+      <th>Day 5 (12-Jun)</th>
+      <th>Day 6 (14-Jun)</th>
     </tr>
   </thead>
   <tbody>
@@ -119,53 +119,53 @@ the materials for that week.
     </tr>
     <tr>
       <td>Lecture<br>Slides</td>
-      <td><a href='slides/summer23_slides/summer23_day07-08.pdf'>Day 04 Notes</a></td>
-      <td><a href='slides/summer23_slides/summer23_day09-10.pdf'>Day 05 Notes</a></td>
-      <td><a href='slides/summer23_slides/summer23_day11-12_session06.pdf'>Day 06 Notes</a></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=98aec2cb-74e1-4549-bd84-b01f01189c3b'>day4-lecture</a></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bb3317fc-15da-46fa-90bc-b0210116a741'>day5-lecture</a></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6ab31fdf-66dc-45ec-aca5-b0230115d1cd'>day6-lecture</a></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
 </div>
-<button type="button" id="week_3_toggle" class="week_control_button">Week 3 (19-Jun to 23-Jun)</button>
+<button type="button" id="week_3_toggle" class="week_control_button">Week 3 (17-Jun to 21-Jun)</button>
 <div id="week_3" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 7 (19-Jun)</th>
-      <th>Day 8 (21-Jun)</th>
-      <th>Day 9 (23-Jun)</th>
+      <th>Day 7 (17-Jun)</th>
+      <th>Day 8 (19-Jun)</th>
+      <th>Day 9 (21-Jun)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Videos</td>
-      <td></td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6fa78f1f-431c-40ea-95e2-ae230027a663'>Lifetime/Scope</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81f128ab-96f2-433e-b770-ae230027a5f4'>Structs</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e02cd998-bfde-4c4a-977a-ae23002791e7'>Random number generation</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9a428f88-2a13-420b-b008-ae230027a35f'>Binary file I/O</a><br><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=373770ad-6472-4b72-b789-ae230027a246'>Bitwise operations</a></td>
+      <td></td>
       <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9ce56b92-a382-468f-8c9e-ae230027a1af'>Number representation,<br>type conversion/casting</a></td>
     </tr>
     <tr>
       <td>Slides</td>
-      <td></td>
       <td><a href='slides/day13_lifetime_scope.pdf'>Lifetime/Scope</a><br><a href='slides/day13_struct_type.pdf'>Structs</a><br><a href='slides/day13_random_numbers.pdf'>Random number generation</a><br><a href='slides/day14_binary_file_io.pdf'>Binary file I/O</a><br><a href='slides/day14_bitwise_operations.pdf'>Bitwise operations</a></td>
+      <td></td>
       <td><a href='slides/day15_number_rep_type_conversions.pdf'>Number representation,<br>type conversion/casting</a><br><a href=' slides/summer23_slides/summer23_midterm_project_overview.pdf'>Midterm project overview</a></td>
     </tr>
     <tr>
       <td>Recap<br>Questions</td>
-      <td></td>
       <td><a href='questions/day13.html'>Day 13</a><br><a href='questions/day14.html'>Day 14</a></td>
+      <td></td>
       <td><a href='questions/day15.html'>Day 15</a></td>
     </tr>
     <tr>
       <td>Exercise</td>
-      <td>No class (Juneteenth)</td>
       <td><a href='exercise/ex13.html'>Exercise 13</a><br><a href='exercise/ex14.html'>Exercise 14</a></td>
+      <td>No class (Juneteenth)</td>
       <td><a href='exercise/ex15.html'>Exercise 15</a></td>
     </tr>
     <tr>
@@ -177,27 +177,27 @@ the materials for that week.
     <tr>
       <td>Lecture<br>Slides</td>
       <td></td>
-      <td><a href='slides/summer23_slides/summer23_day13-14_session07.pdf'>Day 07 Notes</a></td>
-      <td><a href='slides/summer23_slides/summer23_day15-16_session08.pdf'>Day 08 Notes</a></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
       <td></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d5ea5b1d-f9d7-4e2d-8ba4-b0280115cb81'>day7-lecture</a></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=54c4b85c-9401-4af2-94f3-b02a01125744 '>day8-lecture</a></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
 </div>
-<button type="button" id="week_4_toggle" class="week_control_button">Week 4 (26-Jun to 30-Jun)</button>
+<button type="button" id="week_4_toggle" class="week_control_button">Week 4 (24-Jun to 28-Jun)</button>
 <div id="week_4" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 10 (26-Jun)</th>
-      <th>Day 11 (28-Jun)</th>
-      <th>Day 12 (30-Jun)</th>
+      <th>Day 10 (24-Jun)</th>
+      <th>Day 11 (26-Jun)</th>
+      <th>Day 12 (28-Jun)</th>
     </tr>
   </thead>
   <tbody>
@@ -233,28 +233,28 @@ the materials for that week.
     </tr>
     <tr>
       <td>Lecture<br>Slides</td>
-      <td><a href='slides/summer23_slides/summer23_day17-18_session09.pdf'>Day 09 Notes</a></td>
       <td></td>
-      <td><a href='slides/summer23_slides/summer23_day21_session11.pdf'>Day 11 Notes</a></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
-      <td><a href=' https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d6416e0b-eb82-4a4e-aaa7-b02d011815cc'>day9-lecture</a></td>
       <td></td>
-      <td><a href=' https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f043d7bf-7372-4598-aa5e-b03101103b06 '>day11-lecture</a></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
 </div>
-<button type="button" id="week_5_toggle" class="week_control_button">Week 5 (3-Jul to 7-Jul)</button>
+<button type="button" id="week_5_toggle" class="week_control_button">Week 5 (1-Jul to 5-Jul)</button>
 <div id="week_5" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 13 (3-Jul)</th>
-      <th>Day 14 (5-Jul)</th>
-      <th>Day 15 (7-Jul)</th>
+      <th>Day 13 (1-Jul)</th>
+      <th>Day 14 (3-Jul)</th>
+      <th>Day 15 (5-Jul)</th>
     </tr>
   </thead>
   <tbody>
@@ -290,28 +290,28 @@ the materials for that week.
     </tr>
     <tr>
       <td>Lecture<br>Slides</td>
-      <td><a href='slides/summer23_slides/summer23_day22_session13.pdf'>Day 13 Notes</a></td>
+      <td></td>
       <td></td>
       <td><a href='slides/summer23_slides/summer23_day23-24_session15.pdf'>Day 15 Notes</a></td>
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
-      <td><a href=' https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=218b76a7-7b04-4813-af3d-b034011239e6 '>day13-lecture</a></td>
+      <td></td>
       <td></td>
       <td><a href=' https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81e3de09-8482-476f-a134-b0380111a4a1 '>day15-lecture</a><br><a href=' https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e59bbf9a-c9c2-4191-a7fb-b03d004de648 '>day15-lecture-supplement</a></td>
     </tr>
   </tbody>
 </table>
 </div>
-<button type="button" id="week_6_toggle" class="week_control_button">Week 6 (10-Jul to 14-Jul)</button>
+<button type="button" id="week_6_toggle" class="week_control_button">Week 6 (08-Jul to 12-Jul)</button>
 <div id="week_6" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 16 (10-Jul)</th>
-      <th>Day 17 (12-Jul)</th>
-      <th>Day 18 (14-Jul)</th>
+      <th>Day 16 (08-Jul)</th>
+      <th>Day 17 (10-Jul)</th>
+      <th>Day 18 (12-Jul)</th>
     </tr>
   </thead>
   <tbody>
@@ -347,28 +347,28 @@ the materials for that week.
     </tr>
     <tr>
       <td>Lecture<br>Slides</td>
-      <td><a href='slides/summer23_slides/summer23_day25-26_session16.pdf'>Day 16 Notes</a></td>
-      <td><a href='slides/summer23_slides/summer23_day27-28_session17.pdf'>Day 17 Notes</a></td>
-      <td><a href='slides/summer23_slides/summer23_day29-30_session18.pdf'>Day 18 Notes</a></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=324f89c3-818b-44b8-b10b-b03b01127cf5'>day16-lecture</a></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7a45f5ea-6a8b-47e1-a83d-b03d011918c8'>day17-lecture</a></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4626a796-af0c-4e1a-81a6-b03f011412fc'>day18-lecture</a></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
 </div>
-<button type="button" id="week_7_toggle" class="week_control_button">Week 7 (17-Jul to 21-Jul)</button>
+<button type="button" id="week_7_toggle" class="week_control_button">Week 7 (15-Jul to 19-Jul)</button>
 <div id="week_7" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 19 (17-Jul)</th>
-      <th>Day 20 (19-Jul)</th>
-      <th>Day 21 (21-Jul)</th>
+      <th>Day 19 (15-Jul)</th>
+      <th>Day 20 (17-Jul)</th>
+      <th>Day 21 (19-Jul)</th>
     </tr>
   </thead>
   <tbody>
@@ -404,28 +404,28 @@ the materials for that week.
     </tr>
     <tr>
       <td>Lecture<br>Slides</td>
-      <td><a href='slides/summer23_slides/summer23_day31-32_session19.pdf'>Day 19 Notes</a></td>
-      <td><a href='slides/summer23_slides/summer23_day33-34_session20.pdf'>Day 20 Notes</a></td>
-      <td><a href='slides/summer23_slides/summer23_day35-37_session21.pdf'>Day 21 Notes</a></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
-      <td><a href=' https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d7b6df1e-1cc6-4056-9d44-b04201133853'>day19-lecture</a></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a5355c3d-336b-40df-9b9b-b0440112201f '>day20-lecture</a></td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eee7313d-8d4c-4218-9fff-b046010fb6d7'>day21-lecture</a></td>
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
 </div>
-<button type="button" id="week_8_toggle" class="week_control_button">Week 8 (24-Jul to 28-Jul)</button>
+<button type="button" id="week_8_toggle" class="week_control_button">Week 8 (22-Jul to 26-Jul)</button>
 <div id="week_8" class="collapsible">
 <table>
   <thead>
     <tr>
       <th></th>
-      <th>Day 22 (24-Jul)</th>
-      <th>Day 23 (26-Jul)</th>
-      <th>Day 24 (28-Jul)</th>
+      <th>Day 22 (22-Jul)</th>
+      <th>Day 23 (24-Jul)</th>
+      <th>Day 24 (26-Jul)</th>
     </tr>
   </thead>
   <tbody>
@@ -461,13 +461,13 @@ the materials for that week.
     </tr>
     <tr>
       <td>Lecture<br>Slides</td>
-      <td><a href='slides/summer23_slides/summer23_day38_session22.pdf'>Day 22 Notes</a></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
-      <td><a class='external' target='_blank' href='https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bae02786-5109-4780-898a-b0490112e168'>day22-lecture</a></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
