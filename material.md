@@ -63,7 +63,7 @@ the materials for that week.
     <tr>
       <td>Lecture<br>Slides</td>
       <td></td>
-      <td></td>
+      <td><a href='slides/summer24_day03-04_annotated.pdf'>Day 3/4 Slides (annotated)</a></td>
       <td></td>
     </tr>
     <tr>
