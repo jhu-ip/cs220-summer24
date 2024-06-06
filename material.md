@@ -62,8 +62,8 @@ the materials for that week.
     </tr>
     <tr>
       <td>Lecture<br>Slides</td>
-      <td></td>
-      <td><a href='slides/summer24_day03-04_annotated.pdf'>Day 3/4 Slides (annotated)</a></td>
+      <td><a href=' slides/summer24_slides/summer24_session01_day01-02_annotated.pdf'>Day 01 Notes</a></td>
+      <td><a href='slides/summer24_slides/summer24_session02_day03-04_annotated.pdf'>Day 2 Notes (annotated)</a></td>
       <td></td>
     </tr>
     <tr>
@@ -119,7 +119,7 @@ the materials for that week.
     </tr>
     <tr>
       <td>Lecture<br>Slides</td>
-      <td><a href=' slides/summer24_slides/summer24_session01_day01-02.pdf'>Day 01 Notes</a></td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
