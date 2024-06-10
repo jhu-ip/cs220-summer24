@@ -64,7 +64,7 @@ the materials for that week.
       <td>Lecture<br>Slides</td>
       <td><a href=' slides/summer24_slides/summer24_session01_day01-02_annotated.pdf'>Day 01 Notes</a></td>
       <td><a href='slides/summer24_slides/summer24_session02_day03-04_annotated.pdf'>Day 2 Notes (annotated)</a></td>
-      <td></td>
+      <td><a href='slides/summer24_slides/summer24_session03_day05-06_annotated.pdf'>Day 3 Notes (annotated)</a></td>
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
@@ -503,7 +503,7 @@ the materials for that week.
   }
 
   document.addEventListener('DOMContentLoaded', function() {
-    var active_week_id = 'week_1';
+    var active_week_id = 'week_2';
 
     var content_divs = document.getElementsByClassName("collapsible");
     for (i = 0; i < content_divs.length; i++) {
