@@ -47,7 +47,7 @@ Then add, commit, and push both material.csv and material.md.
 -->
 
 You can click on the header for a specific week to expand or collapse
-the materials for that week.
+the materials for that week. Recorded lectures can be found in Canvas in the Panopto tab for our class.
 
 EOF1
 
