@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Intermediate Programming, Summer 2024"
+title: "Intermediate Programming, Summer 2024 Hello Brian"
 category: "home"
 ---
 
@@ -45,5 +45,7 @@ can be made and are processed on Gradescope as well. You get an invitation
 to the course Gradescope in the first week.
 
 ## News
-
+ 
 * **Jun 03** — Welcome! The introductory [homework 0](assign/hw0.html) is available and due on June 6th.
+* **Jun 12** - Assignment [homework 3](assign/hw3.html) is available.
+
