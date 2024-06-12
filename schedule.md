@@ -18,7 +18,7 @@ Note that there is no Homework 2, 4, or 6.
 |-------------------------------|---------------|---------------------|
 | [Homework 0](assign/hw0.html) | Due June 6th  | Thursday            |
 | [Homework 1](assign/hw1.html) | Due June 13th | Thursday            |
-| Homework 3                    | Due June 20th | Thursday            |
+| [Homework 3](assign/hw3.html) | Due June 20th | Thursday            |
 | Midterm project               | Due June 28th | Friday              |
 | Midterm exam                  | July 3th      | Wednesday (inclass) |
 | Homework 5                    | Due July 11th | Thursday            |
