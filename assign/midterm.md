@@ -9,14 +9,14 @@ title: Midterm Project
 <div class='content'>
 <ul>
 <li>You are expected to work in a team of two or three.</li>
-<li><strong>Due: Friday June 30th at 11pm EDT (Baltimore time).</strong></li>
+<li><strong>Due: Friday June 28th at 11pm EDT (Baltimore time).</strong></li>
 </ul>
 </div>
 </div>
 
 *Update*: In addition to submitting the code, each individual team member
 should complete the [Individual Contributions Survey](#submission) on gradescope by 11pm
-on **Sunday, July 2rd**.
+on **Sunday, June 30th**.
 
 ## General Requirements
 
