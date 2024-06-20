@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Intermediate Programming, Summer 2024 Hello Brian"
+title: "Intermediate Programming, Summer 2024"
 category: "home"
 ---
 
-Welcome to the website for Intermediate Programming (Summer 2023) at
+Welcome to the website for Intermediate Programming (Summer 2024) at
 <a class="external" target="_blank" href="https://www.jhu.edu/">Johns Hopkins University</a>!
 
 *Course description*: This course teaches intermediate to advanced
@@ -28,10 +28,10 @@ Use the links at the top of the page to navigate the site.
 team collaborations as well as group and individual
 source code version control. Scaffolding/starter files of
 exercises, homeworks, and projects are shared via the course
-<a class="external" target="_blank" href="https://github.com/jhu-ip/cs220-summer23-public">public repository</a>.
+<a class="external" target="_blank" href="https://github.com/jhu-ip/cs220-summer24-public">public repository</a>.
 You may never share your private repository with anyone else.
 
-<a class="external" target="_blank" href="https://piazza.com/jhu/summer2023/en601220/home">Piazza</a> is
+<a class="external" target="_blank" href="https://piazza.com/jhu/summer2024/601220/home">Piazza</a> is
 the main communication channel. If you have any questions or concerns,
 post on Piazza. You can do either public or private posts (anonymously
 if you want!). If others could potentially benefit from your question,
