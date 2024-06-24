@@ -14,17 +14,17 @@ on the due date.
 Note that there is no Homework 2, 4, or 6.
 
 
-| Assignment/Exam                        | Date          | Day                 |
-|----------------------------------------|---------------|---------------------|
-| [Homework 0](assign/hw0.html)          | Due June 6th  | Thursday            |
-| [Homework 1](assign/hw1.html)          | Due June 13th | Thursday            |
-| [Homework 3](assign/hw3.html)          | Due June 20th | Thursday            |
-| [Midterm project](assign/midterm.html) | Due June 28th | Friday              |
-| Midterm exam                           | July 3th      | Wednesday (inclass) |
-| Homework 5                             | Due July 11th | Thursday            |
-| Homework 7                             | Due July 18th | Thursday            |
-| Final project                          | Due July 26th | Friday              |
-| Final exam                             | July 26th     | Friday (inclass)    |
-|----------------------------------------|---------------|---------------------|
+| Assignment/Exam                        | Date                      | Day                 |
+|----------------------------------------|---------------------------|---------------------|
+| [Homework 0](assign/hw0.html)          | Due June 6th              | Thursday            |
+| [Homework 1](assign/hw1.html)          | Due June 13th             | Thursday            |
+| [Homework 3](assign/hw3.html)          | Due June 20th             | Thursday            |
+| [Midterm project](assign/midterm.html) | Due ~~June 28th~~ June 29 | ~~Friday~~ Saturday |
+| Midterm exam                           | July 3th                  | Wednesday (inclass) |
+| Homework 5                             | Due July 11th             | Thursday            |
+| Homework 7                             | Due July 18th             | Thursday            |
+| Final project                          | Due July 26th             | Friday              |
+| Final exam                             | July 26th                 | Friday (inclass)    |
+|----------------------------------------|---------------------------|---------------------|
 
 
