@@ -8,7 +8,7 @@ category: "syllabus"
 **Syllabus**\
 **Computer Science EN.601.220**\
 **Intermediate Programming**\
-**Summer 2023 (4 credits, E, online)**
+**Summer 2024 (4 credits, E, online)**
 
 *(The instructors reserve the right to make adjustments to this
 syllabus as deemed necessary with notice.)*
@@ -75,10 +75,10 @@ See the course [website staff page](staff.html).
 The following sites will be used heavily during the course:
 
 -   The course website is
-    [jhu-ip.github.io/cs220-summer23/](https://jhu-ip.github.io/cs220-summer23).
+    [jhu-ip.github.io/cs220-summer24/](https://jhu-ip.github.io/cs220-summer24).
 
 -   Piazza
-    (<a class="external" target="_blank" href="https://piazza.com/jhu/summer2023/en601220">https://piazza.com/jhu/spring2023/en601220</a>)
+    (<a class="external" target="_blank" href="https://piazza.com/jhu/summer2024/601220">https://piazza.com/jhu/summer2024/601220</a>)
     will serve as our primary communication channel. You should sign up
     for Piazza immediately.
 
