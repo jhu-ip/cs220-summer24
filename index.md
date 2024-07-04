@@ -50,4 +50,4 @@ to the course Gradescope in the first week.
 * **Jun 12** - Assignment [homework 3](assign/hw3.html) is available.
 * **Jun 20** - [Midterm project](assign/midterm.html) has been released. Please check that your midterm project repository was created.
 * **Jun 24** - [Midterm project](assign/midterm.html) deadline has been extended to Saturday June 29th. 
-
+* **Jul 04** - Assignment [homework 5](assign/hw5.html) is available.
