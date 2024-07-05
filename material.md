@@ -292,13 +292,13 @@ the materials for that week. Recorded lectures can be found in Canvas in the Pan
       <td>Lecture<br>Slides</td>
       <td><a href='slides/summer24_slides/summer24_session13_day22-00_annotated.pdf'>Day 13 Notes (annotated)</a></td>
       <td></td>
-      <td><a href='slides/summer23_slides/summer23_day23-24_session15.pdf'>Day 15 Notes</a></td>
+      <td><a href='slides/summer24_slides/summer24_session15_day23-24_annotated.pdf'>Day 15 Notes</a></td>
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
       <td></td>
       <td></td>
-      <td><a href=' https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=81e3de09-8482-476f-a134-b0380111a4a1 '>day15-lecture</a><br><a href=' https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e59bbf9a-c9c2-4191-a7fb-b03d004de648 '>day15-lecture-supplement</a></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
