@@ -292,7 +292,7 @@ the materials for that week. Recorded lectures can be found in Canvas in the Pan
       <td>Lecture<br>Slides</td>
       <td><a href='slides/summer24_slides/summer24_session13_day22-00_annotated.pdf'>Day 13 Notes (annotated)</a></td>
       <td></td>
-      <td><a href='slides/summer24_slides/summer24_session15_day23-24_annotated.pdf'>Day 15 Notes</a></td>
+      <td><a href='slides/summer24_slides/summer24_session15_day23-24_annotated.pdf'>Day 15 Notes (annotated)</a></td>
     </tr>
     <tr>
       <td>Recorded<br>Sessions</td>
@@ -347,7 +347,7 @@ the materials for that week. Recorded lectures can be found in Canvas in the Pan
     </tr>
     <tr>
       <td>Lecture<br>Slides</td>
-      <td></td>
+      <td><a href='slides/summer24_slides/summer24_session16_day25-26_annotated.pdf'>Day 16 Notes (annotated)</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -503,7 +503,7 @@ the materials for that week. Recorded lectures can be found in Canvas in the Pan
   }
 
   document.addEventListener('DOMContentLoaded', function() {
-    var active_week_id = 'week_5';
+    var active_week_id = 'week_6';
 
     var content_divs = document.getElementsByClassName("collapsible");
     for (i = 0; i < content_divs.length; i++) {

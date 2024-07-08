@@ -162,7 +162,7 @@ Week,Day,Date,Type,Link text,URL
 5,3,5-Jul,Slides,STL Algorithms,slides/day24_stl_algorithms.pdf
 5,3,5-Jul,Recap,Day 24,questions/day24.html
 5,3,5-Jul,Exercise,Exercise 24,exercise/ex24.html
-5,3,5-Jul,LectureSlides,"Day 15 Notes",slides/summer24_slides/summer24_session15_day23-24_annotated.pdf
+5,3,5-Jul,LectureSlides,"Day 15 Notes (annotated)",slides/summer24_slides/summer24_session15_day23-24_annotated.pdf
 
 
 6,1,08-Jul,Video,C++ I/O stream and stringstream,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f35cdf8e-80d0-4d88-b9e3-ae2300279562
@@ -177,6 +177,7 @@ Week,Day,Date,Type,Link text,URL
 6,1,08-Jul,Slides,Dynamic Memory Allocation,slides/day26_dynamic_memory_allocation.pdf
 6,1,08-Jul,Recap,Day 26,questions/day26.html
 6,1,08-Jul,Exercise,Exercise 26,exercise/ex26.html
+6,1,08-Jul,LectureSlides,"Day 16 Notes (annotated)",slides/summer24_slides/summer24_session16_day25-26_annotated.pdf
 
 6,2,10-Jul,Video,C++ Classes,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5a1a7afe-6165-4e33-9567-ae230027a431
 6,2,10-Jul,Video,Default Constructors,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e485b33-028d-45e6-be18-ae230027a3d3
