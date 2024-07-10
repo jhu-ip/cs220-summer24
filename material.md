@@ -348,7 +348,7 @@ the materials for that week. Recorded lectures can be found in Canvas in the Pan
     <tr>
       <td>Lecture<br>Slides</td>
       <td><a href='slides/summer24_slides/summer24_session16_day25-26_annotated.pdf'>Day 16 Notes (annotated)</a></td>
-      <td></td>
+      <td><a href='slides/summer24_slides/summer24_session17_day27-28_annotated.pdf'>Day 17 Notes (annotated)</a></td>
       <td></td>
     </tr>
     <tr>
