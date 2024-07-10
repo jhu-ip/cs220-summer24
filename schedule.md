@@ -22,7 +22,7 @@ Note that there is no Homework 2, 4, or 6.
 | [Midterm project](assign/midterm.html) | Due ~~June 28th~~ June 29 | ~~Friday~~ Saturday |
 | Midterm exam                           | July 3th                  | Wednesday (inclass) |
 | [Homework 5](assign/hw5.html)          | Due July 11th             | Thursday            |
-| Homework 7                             | Due July 18th             | Thursday            |
+| [Homework 7](assign/hw7.html)          | Due July 18th             | Thursday            |
 | Final project                          | Due July 26th             | Friday              |
 | Final exam                             | July 26th                 | Friday (inclass)    |
 |----------------------------------------|---------------------------|---------------------|
