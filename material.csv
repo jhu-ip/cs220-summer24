@@ -220,6 +220,7 @@ Week,Day,Date,Type,Link text,URL
 7,1,15-Jul,Slides,Polymorphism,slides/day32_polymorphism.pdf
 7,1,15-Jul,Recap,Day 32,questions/day32.html
 7,1,15-Jul,Exercise,Exercise 32,exercise/ex32.html
+7,1,15-Jul,LectureSlides,"Day 19 Notes (annotated)",slides/summer24_slides/summer24_session19_day31-32_annotated.pdf
 
 7,2,17-Jul,Video,Dynamic dispatch,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=162dba01-3c6a-4358-8179-ae23002799fe
 7,2,17-Jul,Video,Function hiding and abstract classes,https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0e849f80-9dec-47c1-aaac-ae2300279986
