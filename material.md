@@ -461,7 +461,7 @@ the materials for that week. Recorded lectures can be found in Canvas in the Pan
     </tr>
     <tr>
       <td>Lecture<br>Slides</td>
-      <td></td>
+      <td><a href='slides/summer24_slides/summer24_session22_day38-00_annotated.pdf'>Day 22 Notes (annotated)</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -503,7 +503,7 @@ the materials for that week. Recorded lectures can be found in Canvas in the Pan
   }
 
   document.addEventListener('DOMContentLoaded', function() {
-    var active_week_id = 'week_7';
+    var active_week_id = 'week_8';
 
     var content_divs = document.getElementsByClassName("collapsible");
     for (i = 0; i < content_divs.length; i++) {
